@@ -1,4 +1,9 @@
 ### Hi there 👋
+![Jershan's GitHub statistics](https://github-readme-stats.vercel.app/api?username=krmagnumopus&theme=algolia&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krmagnumopus&theme=algolia&count_private=true&langs_count=4)
+
+![Profile Views](https://komarev.com/ghpvc/?username=krmagnumopus)
 
 <!--
 **krmagnumopus/krmagnumopus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
